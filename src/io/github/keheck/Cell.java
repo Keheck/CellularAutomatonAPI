@@ -71,7 +71,7 @@ public class Cell
 
     public final void cycleState()
     {
-        if(getState() > getStates())
+        if(getState() == getStates()-1)
             setState(0);
         else
             setState(getState()+1);
