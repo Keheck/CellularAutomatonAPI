@@ -4,4 +4,4 @@ IF YOU WANT TO PLAY WITH THE SURCE CODE: You'll need the Processing API (click o
 
 The io.github.keheck.CellularAoutomatonAPI contains instructions on how to get started. You can download the .jar and add it as a library. The Porcessing API is compiled into the file.
 
-THIS REPO HAS BEEN ARCHIVED FOR REASONS OF INAcTIVITY
+THIS REPO HAS BEEN ARCHIVED FOR REASONS OF INACTIVITY
